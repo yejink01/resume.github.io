@@ -26,7 +26,7 @@ Experience coding in JavaScript, ReactJS, Firebase with Computer Science fun
 * Second Best Awards English Debater in Jeju Forum	(August 2017)
   
  ## TECHNICAL SKILLS💻
-* Html, CSS, Javascript, ReactJS, Html, CSS
+* Html, CSS, Javascript, ReactJS
    
  ## VOLUNTEER EXPERIENCE🤲🏻
  * Accelerated English Program for the Gifted Students(February 2019 – December 2019)
