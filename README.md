@@ -1,8 +1,7 @@
 Resume
 =============
 ## Yejin Kim
-###
-*rladpwls376@gmail.com
+### rladpwls376@gmail.com
 
  ## SUMMARY STATEMENT
 Experience coding in JavaScript, ReactJS, Firebase with Computer Science fundamentals including object-oriented design. Passionate about learning and development with a desire to apply skills on larger development team. Effectively contributes as an individual contributor as well as in team-based environments. Fluent in Korean and English.
