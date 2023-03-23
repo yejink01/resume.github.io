@@ -13,7 +13,7 @@ University of Ewha Womans (March 2021 – Decemver 2024 (Expected))
 <br>Bachelor of Software
  
  ## FROFESSIONAL EXPERIENCE
-  ###English Tutor, Seoul(January 2021 – December 2022)
+> English Tutor, Seoul(January 2021 – December 2022)
   ###Dufy Free Shop, Sales, Jeju, Korea(January 2020 - March 2020)
   ###Organizer of TEDxJNUHighSchool( March 2018 - May2019)
   ###Leader of School Newspaper club(March 2018 - May2019)
