@@ -10,7 +10,7 @@ Experience coding in JavaScript, ReactJS, Firebase with Computer Science fun
 
  ## EDUCATION
 University of Ewha Womans (March 2021 – Decemver 2024 (Expected))
-Bachelor of Software
+<br>Bachelor of Software
  
  ## FROFESSIONAL EXPERIENCE
   ###English Tutor, Seoul(January 2021 – December 2022)
